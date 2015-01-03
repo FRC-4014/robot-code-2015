@@ -23,7 +23,12 @@ public class RobotTemplate extends IterativeRobot {
      * used for any initialization code.
      */
     public void robotInit() {
+<<<<<<< HEAD
 
+=======
+        //Comment!
+        //Comment 2!
+>>>>>>> be757544a8f15f3858d13d0ad54205ac1ec233d9
     }
 
     /**
